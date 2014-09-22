@@ -6,3 +6,10 @@
 
 # R data files from past sessions
 .Rdata
+.Rproj.user
+
+# R data files from past sessions
+.Rdata
+
+# R IDE projects annotations
+*.Rproj
